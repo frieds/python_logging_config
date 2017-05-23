@@ -1,5 +1,6 @@
-I created this repo to showcase my custom Python root configuration file for the logger module and to include a very
-simple example. I have used the logger module in many projects and taught others - that I felt this code accompanied
- with a blog post would be helpful in teaching others moving forward. 
-
-[Blog post on logger module](http://dfrieds.com/An-Intro-To-The-Logging-Module-In-Python/)
+I created this repo to showcase my adapted Python logger module root configuration file and a simple example to go 
+ along with it. I have used the logger module in many projects and taught it to several people. Hopefully this code makes
+  it easier for people to get started with logging in Python.
+  
+  Please see this [blog post](http://dfrieds.com/An-Intro-To-The-Logging-Module-In-Python/) for instructions on 
+  getting started with Python logging. 
